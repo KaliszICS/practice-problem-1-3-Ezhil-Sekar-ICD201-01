@@ -13,8 +13,8 @@ def q1():
   print("\n* * * * * *\n *       * \n  *     *\n   *   * \n    * *\n     *")
 def q2():
   #Write Assignment code here
-  print('"Hello ', end="")
-  print('World"\n')
+  print("Hello ", end="")
+  print("World\n")
 def q3():
   #Write Assignment code here
   print('"Man"\n"Board"\n"Man Overboard"')
