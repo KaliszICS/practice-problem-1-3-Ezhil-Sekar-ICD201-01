@@ -11,15 +11,13 @@ def q1():
   print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *")
   print("\n* * * * *\n*       *\n*       *\n*       *\n* * * * *")
   print("\n* * * * * *\n *       * \n  *     *\n   *   * \n    * *\n     *")
-  print()
 def q2():
   #Write Assignment code here
-  word1 = "Hello "
-  word2 = "World"
-  print(word1+word2)
+  print('"Hello ', end="")
+  print('World"\n')
 def q3():
   #Write Assignment code here
-  print("Man\nBoard\nMan Overboard")
+  print('"Man"\n"Board"\n"Man Overboard"')
 
 
   
